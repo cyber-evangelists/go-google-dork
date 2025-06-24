@@ -73,8 +73,4 @@ go run main.go
 
 Webdork is a powerful and flexible tool for web dorking, capable of targeting both specific domains and broader search queries. By automating the process of constructing and executing search queries, it simplifies the task of gathering intelligence on a target, making it an invaluable asset for security professionals.
 
-## Acknowledgements
 
-```bash
-This app was made with 💖 by Hamza under the guidance of Sir Husnain.
-```
